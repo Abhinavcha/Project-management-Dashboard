@@ -1,16 +1,4 @@
-# __Notice:__ Project is currently paused, do not use
 
-
-
-## Sponsored By: <a href="https://zukoni.com"><img src="https://i.imgur.com/kLYHhBM.png" alt="zukoni ui library" style="height: 240;"></a>
-
-<p align="center">
-<img src="public/logos/logo.png" alt="Goodwork" style="margin: auto;">
-</p>
-
-<p align="center">
-Self hosted project management and collaboration tool inspired by basecamp.
-</p>
 
 <p align="center" style="text-align: center;">
 
